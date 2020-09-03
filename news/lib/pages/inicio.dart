@@ -1,6 +1,6 @@
 import 'package:alternative/components/card_noticia.dart';
 import 'package:alternative/model/modelo_noticia.dart';
-import 'package:alternative/pages/novo_anuncio.dart';
+import 'package:alternative/pages/nova_noticia.dart';
 import 'package:alternative/singleton/singleton_banco_dados.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
